@@ -93,8 +93,6 @@ The platform serves as a centralized command center for cybercrime investigation
 - TypeScript
 - Tailwind CSS
 - Vite (build tool)
-- ![image](https://github.com/user-attachments/assets/fd21c068-09ee-4d7a-ad30-1d8abccb1c98)
-
 
 ### AI Integration
 - Google Gemini AI API (gemini-2.5-flash-preview-04-17 model)
