@@ -1,0 +1,5 @@
+{
+  "name": "NetraTrace - Facial Recognition for Missing Persons",
+  "description": "A prototype UI for simulating facial recognition searches for missing persons using AI. Part of the conceptual SurakshaNet platform. This app allows users to upload an image for a mock search against a hypothetical database.",
+  "requestFramePermissions": ["camera"]
+}

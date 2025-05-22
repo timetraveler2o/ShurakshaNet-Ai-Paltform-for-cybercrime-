@@ -1,0 +1,5 @@
+{
+  "name": "Sahayak CopBot - Police Assistant Chatbot",
+  "description": "A prototype chat interface for police personnel to query legal information (IPC, CrPC, Evidence Act, SOPs, new laws) using AI. Part of the conceptual SurakshaNet platform.",
+  "requestFramePermissions": ["microphone"]
+}

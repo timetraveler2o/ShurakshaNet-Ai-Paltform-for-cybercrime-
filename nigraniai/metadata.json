@@ -1,0 +1,5 @@
+{
+  "name": "NigraniAI - Suspicious Behavior Detection",
+  "description": "A prototype UI for simulating the analysis of surveillance imagery for suspicious activities or objects using AI. Part of the conceptual SurakshaNet platform.",
+  "requestFramePermissions": []
+}

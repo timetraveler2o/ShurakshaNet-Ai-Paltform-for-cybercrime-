@@ -1,0 +1,5 @@
+{
+  "name": "SurakshaNet - Unified Cybercrime & Public Safety Dashboard",
+  "description": "A consolidated dashboard integrating various AI-powered tools for cybercrime prevention, investigation, and public safety. This platform is a conceptual prototype.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
