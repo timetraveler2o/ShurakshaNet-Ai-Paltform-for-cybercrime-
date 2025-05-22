@@ -201,13 +201,13 @@ SurakshaNet is designed with the following ethical guidelines:
 ## Contact Information
 
 For more information about SurakshaNet, please contact:
-
-- Chandigarh Police Cybercrime Unit
-- Email: cybercrime@chandigarhpolice.gov.in
-- Phone: +91-XXXXXXXXXX
+- - Mr.Rahul Kumar sharma
+- 
+- Email: r.ksharma97811@gmail.com
+- Phone: +91-6280838860
 
 ## License
 
 This project is proprietary and confidential. Unauthorized copying, distribution, or use is strictly prohibited.
 
-© 2024 Chandigarh Police Cybercrime Unit. All rights reserved.
+©2025 SurakshaNet Ai Developed By Rahul kumar sharma. All rights reserved.
