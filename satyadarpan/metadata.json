@@ -1,0 +1,5 @@
+{
+  "name": "SatyaDarpan - Deepfake & AI-Generated Media Detection",
+  "description": "A prototype UI for uploading media (images) and simulating deepfake/AI-generated content analysis using AI. Part of the conceptual SurakshaNet platform.",
+  "requestFramePermissions": []
+}
