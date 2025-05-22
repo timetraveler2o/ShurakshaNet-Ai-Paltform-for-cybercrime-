@@ -3,6 +3,8 @@
 ## Overview
 
 SurakshaNet is a comprehensive cybersecurity and public safety platform designed specifically for the Chandigarh Police Cybercrime Unit. This unified dashboard integrates multiple AI-powered modules to assist law enforcement in detecting, analyzing, and preventing various types of cybercrimes and security threats.
+![image](https://github.com/user-attachments/assets/6fbd2da3-31a3-42e7-96c8-751b9cf5caaa)
+
 
 ## Purpose
 
@@ -15,6 +17,9 @@ The platform serves as a centralized command center for cybercrime investigation
 - Analyze surveillance footage
 - Detect voice phishing (vishing) scams
 - Identify phishing emails
+- ![image](https://github.com/user-attachments/assets/ed7cece1-8bc8-4d91-ab75-4cf1f211d9cf)
+![screencapture-localhost-5173-2025-05-23-03_01_29](https://github.com/user-attachments/assets/e1b6b92e-5a98-4df2-9d9c-9ac7d081792e)
+
 
 ## Key Features
 
@@ -23,42 +28,63 @@ The platform serves as a centralized command center for cybercrime investigation
 - Provides risk assessment (Low/Medium/High)
 - Identifies suspicious patterns in transaction details
 - Offers actionable recommendations
+- ![screencapture-localhost-5173-2025-05-23-02_57_13](https://github.com/user-attachments/assets/0354f271-9fa3-4179-a96d-4661efb5e152)
+- ![screencapture-localhost-5173-2025-05-23-03_00_39](https://github.com/user-attachments/assets/8c285726-144f-44b0-8ac8-d94c878a1add)
+
+
 
 ### 2. SatyaDarpan - Deepfake Media Analysis
 - Detects AI-generated or manipulated images
 - Identifies common deepfake artifacts
 - Provides confidence scores and detailed explanations
 - Supports multiple image formats
+- ![screencapture-localhost-5173-2025-05-23-03_03_33](https://github.com/user-attachments/assets/2c7209c7-4900-4f1d-af83-ed3ecef90c0e)![screencapture-localhost-5173-2025-05-23-03_05_18](https://github.com/user-attachments/assets/3462b8eb-fde2-49a7-9105-9b5e0aa9125c)
+![screencapture-localhost-5173-2025-05-23-03_06_53](https://github.com/user-attachments/assets/f185c1cf-9c2e-49cf-b510-d32f6b0e0553)
+
+
 
 ### 3. NetraTrace - Missing Persons Facial Recognition (Simulation)
 - Simulates facial recognition against a missing persons database
 - Generates potential matches with confidence scores
 - Provides case details and last known locations
 - Includes ethical use guidelines
+- ![screencapture-localhost-5173-2025-05-23-03_09_46](https://github.com/user-attachments/assets/41c9fcad-85a8-4c79-bcf5-274b9577e49a)
+
 
 ### 4. Sahayak CopBot - Police Legal Assistant
 - Provides information on Indian legal codes (IPC, CrPC, Evidence Act)
 - Assists with police standard operating procedures
 - Offers guidance on recent legal updates
 - Maintains conversation history for reference
+- ![screencapture-localhost-5173-2025-05-23-03_12_01](https://github.com/user-attachments/assets/18e7ba39-7301-44ea-ba2e-e3fb6eb035ec)
+
 
 ### 5. NigraniAI - Surveillance Analysis (Simulation)
 - Analyzes video footage for suspicious activities
 - Detects potential security threats
 - Identifies unusual behaviors and objects
 - Assigns alert levels to detected events
+- ![screencapture-localhost-5173-2025-05-23-03_22_14](https://github.com/user-attachments/assets/a1dadb4b-7229-42af-85fe-9695e0980de4)
+
 
 ### 6. VaaniShield - VoIP Scam Detection
 - Analyzes audio recordings of phone calls
 - Identifies common scam indicators
 - Provides risk assessment and recommendations
 - Generates transcript summaries
+- ![screencapture-localhost-5173-2025-05-23-03_24_08](https://github.com/user-attachments/assets/fcddc5cb-7038-47a4-bd70-f9091f5b03e5)![screencapture-localhost-5173-2025-05-23-03_26_49](https://github.com/user-attachments/assets/f7fd7455-0d2b-464e-9451-0b47617f25e0)
+
+
 
 ### 7. Kavach MailGuard - Phishing Email Detection
 - Analyzes email content for phishing attempts
 - Identifies suspicious links and social engineering tactics
 - Provides confidence scores and explanations
 - Maintains history of analyzed emails
+- ![screencapture-localhost-5173-2025-05-23-03_29_51](https://github.com/user-attachments/assets/6e268010-1785-4f96-9cef-9e4e5b81ee69)
+- ![screencapture-localhost-5173-2025-05-23-03_32_04](https://github.com/user-attachments/assets/f175a422-706d-4672-aa66-b8ade546a261)
+
+
 
 ## Technology Stack
 
@@ -67,6 +93,8 @@ The platform serves as a centralized command center for cybercrime investigation
 - TypeScript
 - Tailwind CSS
 - Vite (build tool)
+- ![image](https://github.com/user-attachments/assets/fd21c068-09ee-4d7a-ad30-1d8abccb1c98)
+
 
 ### AI Integration
 - Google Gemini AI API (gemini-2.5-flash-preview-04-17 model)
