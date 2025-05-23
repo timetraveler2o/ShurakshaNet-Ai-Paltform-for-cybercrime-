@@ -7,7 +7,6 @@ SurakshaNet is a comprehensive cybersecurity and public safety platform designed
 
 
 ## Purpose
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-OCtYZyA7s?si=D-d9hAeF3m8CFbeN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The platform serves as a centralized command center for cybercrime investigation and prevention, providing officers with advanced tools to:
 
