@@ -1,4 +1,4 @@
-# SurakshaNet: Unified Cybercrime and Public Safety Dashboard
+# SurakshaNet: Unified Ai Cybercrime and Public Safety platform
 [Proper working Video Link Is Here -](https://www.youtube.com/watch?v=d-OCtYZyA7s&ab_channel=ThugZindgi)
 ## Overview
 
